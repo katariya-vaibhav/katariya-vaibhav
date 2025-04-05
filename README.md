@@ -1,15 +1,24 @@
+# Hi there, I'm Vaibhav! 👋
+
+## About Me
+- 🚀 I’m a **Full Stack Developer** passionate about building web applications and exploring the world of programming.  
+- 🌱 Currently learning and mastering **Full Stack Development**.  
+- 🌟 Interested in **open source projects** and creating innovative solutions.  
+
+## Collaboration
+- 🤝 I’m looking to collaborate on exciting **open source projects**.  
+
+## Get in Touch
+- 📷 Find me on Instagram: [@_coding__hub_](https://instagram.com/_coding__hub_)  
+- 📫 How to reach me: DM me on Instagram!
+
 ![](https://nirzak-streak-stats.vercel.app/?user=katariya-vaibhav&theme=dark&hide_border=false)<br/>
-<!--
-**katariya-vaibhav/katariya-vaibhav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## Fun Facts
+- 🌍 Pronouns: **He/Him**  
+- 💡 I love contributing to tech communities and learning new technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+✨ Thanks for stopping by! Feel free to connect with me. 😊
+
