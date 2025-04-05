@@ -1,5 +1,5 @@
 ## Hi there 👋
-[!katariya-vaibhav(https://nirzak-streak-stats.vercel.app/?user=[yourusername]&theme=dark&hide_border=false)<br/>](https://nirzak-streak-stats.vercel.app/?user=katariya-vaibhav&theme=dark&hide_border=false))
+[!katariya-vaibhav(https://nirzak-streak-stats.vercel.app/?user=[yourusername]&theme=dark&hide_border=false)<br/>](https://nirzak-streak-stats.vercel.app/?user=katariya-vaibhav&theme=dark&hide_border=false)
 <!--
 **katariya-vaibhav/katariya-vaibhav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
