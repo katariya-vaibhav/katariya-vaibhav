@@ -1,7 +1,8 @@
 # Hi there, I'm Vaibhav! 👋
+- I'm a Full Stack & AI Agent Developer with a passion for building innovative applications. My work focuses on creating intelligent, modern web experiences using Next.js and other cutting-edge technologies.
 
 ## About Me
-- 🚀 I’m a **Full Stack Developer / Next.js** passionate about building web applications and exploring the world of programming.  
+- 🚀 I love exploring the world of programming and building cool things.  
 - 🌟 Interested in **open source projects** and creating innovative solutions.  
 
 ## Collaboration
