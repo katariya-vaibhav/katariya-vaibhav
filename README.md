@@ -1,6 +1,6 @@
 # Hi there, I'm Vaibhav! 👋
 - I'm a Full Stack & AI Agent Developer with a passion for building innovative applications. My work focuses on creating intelligent, modern web experiences using Next.js and other cutting-edge technologies.
-- 
+
 - Building - [1invoice.in](https://www.1invoice.in)
 
 ## About Me
